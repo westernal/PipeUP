@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Group_3014" data-name="Group 3014" transform="translate(-95 -34)">
+    <g id="Rectangle_1027" data-name="Rectangle 1027" transform="translate(95 34)" fill="#fff" stroke="rgba(112,112,112,0.1)" stroke-width="1">
+      <rect width="30" height="30" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" rx="3.5" fill="none"/>
+    </g>
+    <path id="bookmark" d="M92.459,27.61H77.791a.431.431,0,0,0-.431.431V47.023a.431.431,0,0,0,.731.31l7.034-6.786,7.034,6.786a.431.431,0,0,0,.731-.31V28.041A.431.431,0,0,0,92.459,27.61Zm-.431,18.4-6.6-6.37a.431.431,0,0,0-.6,0l-6.6,6.37V28.473h13.8Z" transform="translate(24.64 11.39)" fill="#4a76fa" stroke="#4a76fa" stroke-width="0.15"/>
+  </g>
+</svg>

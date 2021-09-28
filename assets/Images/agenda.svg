@@ -1,0 +1,14 @@
+<svg id="agenda" xmlns="http://www.w3.org/2000/svg" width="17.195" height="17.195" viewBox="0 0 17.195 17.195">
+  <g id="Group_3105" data-name="Group 3105" transform="translate(0 1.433)">
+    <path id="Path_30530" data-name="Path 30530" d="M15.4,17.762H1.791A1.794,1.794,0,0,1,0,15.971V3.791A1.794,1.794,0,0,1,1.791,2H15.4A1.794,1.794,0,0,1,17.2,3.791v12.18A1.794,1.794,0,0,1,15.4,17.762ZM1.791,2.716A1.076,1.076,0,0,0,.716,3.791v12.18a1.076,1.076,0,0,0,1.075,1.075H15.4a1.076,1.076,0,0,0,1.075-1.075V3.791A1.076,1.076,0,0,0,15.4,2.716Z" transform="translate(0 -2)" fill="#535353"/>
+  </g>
+  <g id="Group_3106" data-name="Group 3106" transform="translate(0 5.732)">
+    <path id="Path_30531" data-name="Path 30531" d="M16.837,8.716H.358A.358.358,0,0,1,.358,8H16.837a.358.358,0,1,1,0,.716Z" transform="translate(0 -8)" fill="#535353"/>
+  </g>
+  <g id="Group_3107" data-name="Group 3107" transform="translate(3.582)">
+    <path id="Path_30532" data-name="Path 30532" d="M5.358,3.582A.358.358,0,0,1,5,3.224V.358a.358.358,0,0,1,.716,0V3.224A.358.358,0,0,1,5.358,3.582Z" transform="translate(-5)" fill="#535353"/>
+  </g>
+  <g id="Group_3108" data-name="Group 3108" transform="translate(12.896)">
+    <path id="Path_30533" data-name="Path 30533" d="M18.358,3.582A.358.358,0,0,1,18,3.224V.358a.358.358,0,1,1,.716,0V3.224A.358.358,0,0,1,18.358,3.582Z" transform="translate(-18)" fill="#535353"/>
+  </g>
+</svg>
